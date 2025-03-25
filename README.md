@@ -1,4 +1,4 @@
-# Health Insurance Cost Prediction
+# Medical Insurance Cost Prediction
 
 ## Overview
 This project predicts health insurance costs using a Linear Regression model. The dataset contains various features like age, BMI, smoking status, and region to estimate the insurance charges.
@@ -53,10 +53,4 @@ print('Predicted Insurance Cost:', prediction[0])
 - Implement non-linear models (Random Forest, Gradient Boosting)
 - Feature engineering for better accuracy
 - Deploy as a web application
-
-## Author
-Vaibhavkr2004
-
-## License
-This project is open-source and available under the MIT License.
 
